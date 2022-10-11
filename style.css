@@ -1,0 +1,29 @@
+.content_body {
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif;
+  }
+
+  .auto-style3 {
+    height: 150px;
+    text-align: left;
+    font-size: xx-small;
+  }
+  .content_body2{
+font-family:Geneva, Arial, Helvetica, sans-serif;
+}
+.content_body2{
+color: rgb(0, 0, 0);}
+.content_body2{
+font-size: 14px;
+}
+.content_head {
+    width: 25%;
+    FONT-SIZE: 14px;
+    COLOR: rgb(0,0,0);
+    FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif;
+  }
+  element {
+    width: 50%;
+  }
